@@ -16,4 +16,9 @@ build/
 coverage/
 thumbs.db
 
+# Foundry/Forge
+contracts/cache/
+contracts/out/
+contracts/broadcast/
+
 AGENTS.md
